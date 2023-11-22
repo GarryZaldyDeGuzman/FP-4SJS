@@ -96,6 +96,8 @@ if(isset($message)){
    <nav class="navbar">
       <a href="home.php"><i class="fas fa-home"></i><span>Home</span></a>
       <a href="courses.php"><i class="fas fa-graduation-cap"></i><span>Materials</span></a>
+      <a href="" class=""><i class="fa fa-bullhorn" aria-hidden="true"></i><span>Announcements</span></a>
+      <a href="" class=""><i class="fa fa-book" aria-hidden="true"></i><span>Modules</span></a>
       <a href="teachers.php"><i class="fas fa-chalkboard-user"></i><span>Teachers</span></a>
       <a href="components/user_logout.php" onclick="return confirm('logout from this website?');"><i class="fas fa-right-from-bracket"></i><span>Logout</span></a>
    </nav>
