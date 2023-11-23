@@ -33,7 +33,7 @@ if(isset($_COOKIE['user_id'])){
 
 <section class="courses">
 
-   <h1 class="heading">all courses</h1>
+   <h1 class="heading">All Announcements</h1>
 
    <div class="box-container">
 

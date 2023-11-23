@@ -66,7 +66,7 @@ if(isset($_POST['save_list'])){
 
 <section class="playlist">
 
-   <h1 class="heading">playlist details</h1>
+   <h1 class="heading">Announcement details</h1>
 
    <div class="row">
 
@@ -143,7 +143,7 @@ if(isset($_POST['save_list'])){
 
 <section class="videos-container">
 
-   <h1 class="heading">playlist videos</h1>
+   <h1 class="heading">Announcements</h1>
 
    <div class="box-container">
 
